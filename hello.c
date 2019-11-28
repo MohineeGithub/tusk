@@ -5,3 +5,5 @@ printf("Hello Worlr");
 printf("Welcome to my new respo");
 }
 return 0;
+
+thanku :)
